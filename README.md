@@ -38,6 +38,7 @@ npm install
 SPOTIFY_CLIENT_ID=your_client_id_here
 SPOTIFY_CLIENT_SECRET=your_client_secret_here
 NEXTAUTH_URL=https://127.0.0.1:3000 # Or your deployment URL
+NEXTAUTH_SECRET=your_client_secret_here
 ```
 
 5. Uygulamayı başlatın:
